@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="CodigoLabel.GenerateMember" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="RazaoSocialLabel.GenerateMember" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="CidadeLabel.GenerateMember" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="EstadoLabel.GenerateMember" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="LogradouroLabel.GenerateMember" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="ComplementoLabel.GenerateMember" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="NumeroLabel.GenerateMember" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="BairroLabel.GenerateMember" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="CNPJLabel1.GenerateMember" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="CEPLabel.GenerateMember" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="TelefoneLabel.GenerateMember" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="FornecedorBindingNavigator.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>178, 54</value>
+  </metadata>
+  <metadata name="FornecedorBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>138, 17</value>
+  </metadata>
+  <metadata name="BancoDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="BindingNavigatorMoveFirstItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAStJREFUOE9jYBg0
+        oHDW8/9NC57/z5z4+D8uR4W3P8Apx5A789n/VUfe/8elKL77wf/ghmu4DciY8vT/wn0fsCqK73n4f+n+
+        ///9qy/gNiCh58n/aVveYyiKaL8P1pw56/9/r9ITuA2I7Hr0v3f1BxRFoa33wJpb1wFt7/z73yX/AG4D
+        Apsf/q+b/w6uKLjl7v9Fe///7wBqzpjz879d3c//9hnbcRvgUXX/f/60NyiK7Ipv/0+f8/u/f9e3/zqF
+        7/5bJKzHbYB96d3/2ZNfYyjSTzn/36ToxX+VrE//jSOX4TbAIu/O/9T+11gVGSSd+C+b9vW/bvA83AYY
+        Zt3+H9byEqci/dTL/zV8p+E2QCftxn+/6od4Fal4TMBtgFPulf8gBXgVDZqMh+wQAPB2wKsSwCgmAAAA
+        AElFTkSuQmCC
+</value>
+  </data>
+  <data name="BindingNavigatorMovePreviousItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAL1JREFUOE9jYBgy
+        ILz9wX+yHRvf/eB/cMM18gyI73n4f+n+///9qy+QbkBE+32w5sxZ//97lZ4gzYDQ1ntgza3rgLZ3/v3v
+        kn+AeAOCW+7+X7T3//8OoOaMOT//29X9/G+fsZ14A0ChbVd8+3/6nN///bu+/dcpfPffImE9aQaADNFP
+        Of/fpOjFf5WsT/+NI5eRbgDIEIOkE/9l077+1w2eR54BYJekXv6v4TuNfANAhqh4TKDMALKTMc01AgDQ
+        FGCYkuTLEQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="BindingNavigatorMoveNextItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAKtJREFUOE9jYBh0
+        oHDW8/8UOSp35rP/Cd33yDckY8rT//P2//6f0HWHPEMSep78n73v1//OrX//u5VeJt2QyK5H/6ds+/W/
+        ZOnf/wnT//63yT1LmiGBzQ//t659D9ZsXPLlv3T0tf/GkcuIN8Sj6v7/krnv4JoVXXqI1wyKPvvSu/8D
+        W56BbSZZM8gAi7w7/20KrpCnGWSAYdZt8jWDDNBJu0GanylKtoNCMwCgfl+gC2KedgAAAABJRU5ErkJg
+        gg==
+</value>
+  </data>
+  <data name="BindingNavigatorMoveLastItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAATBJREFUOE9jYBhU
+        oHDW8/+4HASSa1rw/H/mxMc41TDkznz2P6H7HlYFILlVR97/D29/gNuAjClP/8/b//t/QtcdDEUguYX7
+        PvwPbriG24CEnif/Z+/79b9z69//bqWXURSC5KZtef/fv/oCbgMiux79n7Lt1/+SpX//J0z/+98m9yxc
+        MUiud/WH/16lJ3AbENj88H/r2vdgzcYlX/5LR1/7bxy5DKwBJFc3/91/l/wDuA3wqLr/v2TuO7hmRZce
+        uGKQXP60N//tM7bjNsC+9O7/wJZnYJuRNYNcAJLLnvz6v0XCetwGWOTd+W9TcAVDM8gAkFxq/2u4l7Cm
+        F8Os21g1gxSD5MJaXv7XDZ6H2wU6aTdwSoLk/Kof/tfwnYbbAHz5yin3yn8VjwlgPKjyHwMAvtG/s0Vm
+        x8MAAAAASUVORK5CYII=
+</value>
+  </data>
+  <metadata name="BancoDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="BtnSair.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAPtJREFUWEftlUEO
+        wiAQRbmMl/QYnqALV97AHQdxzTXG/tTf/EyoBSOzoglBK/Afb4ikNJ9pYBpoN2Dr0J7WvnLjyD3cTp4P
+        aOOy7cPsdUtmj8spyDAAhBMCPUvihQwD0HCF8SDDALwBfqcNmhgGUDOAd2EA3gDDwwDUgIY/r9uBHF4C
+        rTkBEB5qQHe+7ThZmAGvHeFo4QaoXfuQM4Cd1sLDDByFjzoD1av3m4Gcs6EdXNvt1x5GcjH2y3I3NC7u
+        y4H3pZS9+fl96Q6A4doTRP8HFACfFeJngFp4DcQbIIyUpY8BE8/C/e/egEL0pa+j/xVOiG6AOWEaiDLw
+        Bo207nI7g/LoAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="BtNovoFornecedor.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAA1tJREFUWEftV1lo
+        E1EUzbdI3fBf0S4uFRTXmg/1Q9NEI2gRF9ylWj+0/olilEpoKqJFM+4ttFCLWoqIIooLVNtabUWrqEUs
+        VIq1TjMzmbQJZfLmOHeSqExWlaEIBg5Z5ubec7czbyyW/68MK5B7xDI+z2Wx57os61JBt9FsM3SbuZnm
+        2DrPPaavwDMRqUA2ZJu55wwtNadLVnOzeKYyDKkiJNav4StE1geBfYHMeDA1DLIh2wzdZm4WIzCsBvF8
+        uAG3gydxK1iOxqEy3Bg8gofBSwixgPkEQmoAd4OVuCIX44J/G7zSRlSKRbgmH8IQk8wnEFT9uDnoxhlp
+        PU6La3BCcKDctxy1/lIMMtF8ApRlvXxQD3p8YCmO8Yvh4hehWirRCAjmE6Asa6R9OMoX6IFd/EIdf00g
+        uudWGrYkKHV680XKkoLFAhsJkI32/9IUfqwJdYIEhHaY1igRyPHeOqde5lQEyIZsnVw+H8MqbiYfwQx+
+        rjuLdMIet3+kbiQwtMtB5tcDJcKr0F2c8DniKkC/0bUA8+maQDoR0YheDLDPOvzqNyz0TADFSkpADH9B
+        o1ymZ5kIiYLH2kDXqqQ9Oq5Iu6MoxmWpWFvTw+gJd2oExqcm0K9046ywIS5DY89/93ulUIQupWUkCazF
+        e6Vp5AicFtbirfIICzzjRqYFp4Q1eK3cT0/AOITGoarw2ZPOh8dnwwVpu4ZtOK9jK87p2IJa+QA6ww8w
+        P10FYmsYYAM/1olut77oOrWFGlDhK4wjQcGbQjXoZi/xibXjI2tDF3uGD6wZ79gTDU2ofuPWCIxN3IJf
+        hcipiZFRRFZ6p4vFdTb0sY+4JO2KI0BZU+AddctQ6M0RC7kcPoJs3qZjqo457tFJhChy5EopxQ7vNLGX
+        vcdFaWccASp3F2uFzZv9Z1Kc7mhC2u7gpvE9rFPvs1EHqM9UZsrYtBORncvjqcdUbiMBTtqMt+wxqMwm
+        Esjlabio3EYCXmkTXrF7WMFNMY8ADRVNNZXbSOCsdjTrYHfMJpDNU59r5P04KayOwqm9O1Ell+AFu4Xl
+        3GTzKkD9/aC2oD18G63KDbQo1/FUqccT5Sqaw9fQod7RCEwyjYCVdpiE5CfGaJ8jmKcjC7Pdo8x5MBnx
+        R7N0OvHPXv8OHG7peoOB2p4AAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="BtSalvar.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="BtAlterarFornecedor.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="BtApagarFornecedor.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAALRJREFUWEftVdEO
+        gCAI5NP7c5MmjdQUFK0H2Fgv6J3HBQAeroAr8GcFAkDguZ3rBY4Rv0fMSABTHHhOXPxWOEIiAc+DEyne
+        hp4S5uBcmcwPxQuXgteIcE9sA8/bgiS2g9dITLtdewH54RMFODhXQzsntI++6mvg20i0wJeToImYBlFT
+        PfO/go9jaZ9N9sDd8+dCEnvHhAT1vbcDxKy0haOrODOlFraot1ut01T8AlfAFTBW4AT75prpRDlWPQAA
+        AABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="FornecedorTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>316, 17</value>
+  </metadata>
+  <metadata name="TableAdapterManager.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 54</value>
+  </metadata>
+  <data name="BtDesfazer.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAALFJREFUWEftlYEO
+        gCAIBfl0/9ykZGMmPqlcreFmbkV5HphE0cJAGAgDhoFcGvEFjPJ6DYXDvPCJyVNK2QOg4yEIWjk/Xwow
+        o38pgGWAChkRqz93VACuFPQMyOQC1xoQKA3C96S5ALoG6scEzkqBTNoCuQD6Bop2tTtGNaBT9IqB2wBX
+        amBP26A4XSmwdwFX/yF16Tb87H9Am/m/AV4h6vowQrGuIoSnVQSEgTAQBh4ysAGei+cT+4rqNAAAAABJ
+        RU5ErkJggg==
+</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>36</value>
+  </metadata>
+</root>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

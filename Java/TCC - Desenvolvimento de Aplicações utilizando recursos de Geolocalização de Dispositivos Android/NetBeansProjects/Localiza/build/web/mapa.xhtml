@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:ui="http://java.sun.com/jsf/facelets">
+   
+    <ui:composition template="./Layout/Template.xhtml">
+            <ui:define name="content">
+    <h:head>
+        <title>Mapa</title>
+        <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"/>
+        
+    </h:head>
+    <h:body>
+        
+        <table border="1">
+            <tr>
+                <td width="180px"> 
+                    <h:form>
+                        <h2 align="center">Busca Individual</h2>
+                <h:panelGrid columns="2" border="1">  
+                <h:outputLabel value="Matricula:" for="matricula" />
+                <h:outputLabel value="Registros:" for="numero"/>
+                <h:inputText id="matricula" value="#{mapBean.aluno.matricula}" size="8"/>
+                <h:inputText id="numero" value="#{mapBean.numero}" size="1"/>
+                <h:commandButton value="Mostrar locais" action="#{mapBean.mostrarAluno()}"/>
+                </h:panelGrid><br/> <br/> 
+                <h2 align="center">Busca Coletiva</h2>
+                <h:panelGrid  border="1">
+                <h:commandButton value="MostrarTodos" action="#{mapBean.mostrarTodos()}"/>
+                
+                <h:commandButton value="Mostrar Ultimo Local de Todos" action="#{mapBean.mostrarUltimoTodos()}"/>
+                
+                </h:panelGrid>
+                </h:form>
+         </td>
+            <td> 
+            
+            <h1 align="CENTER">
+
+                <p:gmap center="-18.956217,-48.271458" zoom="17" type="ROADMAP" 
+               style="width:600px;height:400px" 
+               model="#{mapBean.simpleModel}"/>
+             <h:messages id="msgerro"></h:messages> 
+             </h1>
+            </td>  
+       </tr>
+        
+        </table>    
+    </h:body>
+         </ui:define>
+    </ui:composition>
+</html>
+
+

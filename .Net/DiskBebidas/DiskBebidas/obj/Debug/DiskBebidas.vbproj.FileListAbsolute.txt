@@ -1,0 +1,38 @@
+C:\DiskBebidas\DiskBebidas\bin\Debug\DiskBebidas.exe
+C:\DiskBebidas\DiskBebidas\bin\Debug\DiskBebidas.pdb
+C:\DiskBebidas\DiskBebidas\bin\Debug\DiskBebidas.xml
+C:\DiskBebidas\DiskBebidas\obj\Debug\ResolveAssemblyReference.cache
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.BoasVindas.resources
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormCadCliente.resources
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormCadFornecedor.resources
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormCadProduto.resources
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormCadUsuario.resources
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormPedido.resources
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.Login.resources
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.Resources.resources
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.Principal.resources
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.vbproj.GenerateResource.Cache
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.exe
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.xml
+C:\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.pdb
+C:\Users\UniAlgar0025\Desktop\Vb.net\BackupSistema 2011-06-03 12;41;58\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.exe
+C:\Users\UniAlgar0025\Desktop\Vb.net\BackupSistema 2011-06-03 12;41;58\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.xml
+C:\Users\UniAlgar0025\Desktop\Vb.net\BackupSistema 2011-06-03 12;41;58\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.pdb
+C:\Users\UniAlgar0025\Desktop\Vb.net\BackupSistema 2011-06-03 12;41;58\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.BoasVindas.resources
+C:\Users\UniAlgar0025\Desktop\Vb.net\BackupSistema 2011-06-03 12;41;58\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormCadFornecedor.resources
+C:\Users\UniAlgar0025\Desktop\Vb.net\BackupSistema 2011-06-03 12;41;58\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormCadProduto.resources
+C:\Users\UniAlgar0025\Desktop\Vb.net\BackupSistema 2011-06-03 12;41;58\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormCadUsuario.resources
+C:\Users\UniAlgar0025\Desktop\Vb.net\BackupSistema 2011-06-03 12;41;58\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormPedido.resources
+C:\Users\UniAlgar0025\Desktop\Vb.net\BackupSistema 2011-06-03 12;41;58\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.Login.resources
+C:\Users\UniAlgar0025\Desktop\Vb.net\BackupSistema 2011-06-03 12;41;58\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.Resources.resources
+C:\Users\UniAlgar0025\Desktop\Vb.net\BackupSistema 2011-06-03 12;41;58\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.Principal.resources
+C:\Users\UniAlgar0025\Desktop\Vb.net\BackupSistema 2011-06-03 12;41;58\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.vbproj.GenerateResource.Cache
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.BoasVindas.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormCadFornecedor.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormCadProduto.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormCadUsuario.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.FormPedido.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.Login.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.Resources.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.Principal.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\DiskBebidas\DiskBebidas\obj\Debug\DiskBebidas.vbproj.GenerateResource.Cache
